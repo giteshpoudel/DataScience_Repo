@@ -11,4 +11,4 @@ Analytics Graduate Student with concetration in Statistical modeling, Data scien
 
 [R Scripts](https://github.com/giteshpoudel/DataScience_Repo/tree/main/R%20Projects) 
 
-[Visualization](https://github.com/giteshpoudel/DataScience_Repo/tree/main/Data%20Visualizations)
+[Visualization](https://github.com/giteshpoudel/DataScience_Repo/tree/main/Data%20Visualizations) [Tableau](https://public.tableau.com/profile/gitesh.poudel)
